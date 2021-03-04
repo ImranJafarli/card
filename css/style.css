@@ -1,0 +1,18 @@
+.card {
+    box-shadow: 0 1px 8px 0 rgba(116, 22, 5, 0.973);
+  }
+  .card:hover {
+    box-shadow: 0 8px 8px 0 rgba(10, 228, 64, 0.986);
+  }
+  .container {
+    padding: 1px 16px;
+  }
+  .card1 {
+    box-shadow: 0 1px 8px 0 rgb(240, 4, 4);
+  }
+  .card1:hover {
+    box-shadow: 0 8px 8px 0 rgba(28, 4, 248, 0.959);
+  }
+  .container1 {
+    padding: 1px 16px;
+  }
